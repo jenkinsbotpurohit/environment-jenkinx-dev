@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: my-organiization
-  repo: spring-boot-hello-world
-  url: https://github.com/my-organiization/spring-boot-hello-world.git
+  repo: express-hello
+  url: https://github.com/my-organiization/express-hello.git
   version: ""
   versionURL: ""
