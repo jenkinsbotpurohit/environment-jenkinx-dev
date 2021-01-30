@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: my-organiization
-  repo: spring-boot-http-gradle
-  url: https://github.com/my-organiization/spring-boot-http-gradle.git
+  repo: spring-boot-hello-world
+  url: https://github.com/my-organiization/spring-boot-hello-world.git
   version: ""
   versionURL: ""
